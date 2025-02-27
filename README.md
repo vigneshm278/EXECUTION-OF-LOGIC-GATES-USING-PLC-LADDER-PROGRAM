@@ -57,7 +57,8 @@ Ladder Logic: Represented by a combination of AND, OR, and NOT gates.</br>
 
  ### OR GATE:
  
- ![image](https://github.com/user-attachments/assets/f0fd4784-ae28-4161-ab73-d1097ffc4be6)
+ ![image](https://github.com/user-attachments/assets/1cba09d0-ba72-4bf6-9693-d1f4d34696dd)
+
 
 ### NOT GATE:
 
