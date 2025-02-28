@@ -135,17 +135,23 @@ Here’s the section with proper formatting:
 - **XOR Gate:** The output should light up when exactly one input is HIGH.
 
 
-### SIMULATION RESULTS 
+# SIMULATION RESULTS 
 
-![Screenshot 2024-08-23 084625](https://github.com/user-attachments/assets/d5b6636c-fe10-4c77-9ce8-9d4733dfdd26)
+AND GATE:
+![Screenshot 2025-02-21 164642](https://github.com/user-attachments/assets/50ee9c62-1067-4a25-8ffa-e13c8bc57d66)
 
-![Screenshot 2024-08-23 084420](https://github.com/user-attachments/assets/9a6f4f2f-688a-4505-9ff1-8120f1d516ff)
+OR GATE:
+![Screenshot 2025-02-21 164608](https://github.com/user-attachments/assets/7965831f-ff6f-465c-ae54-205ed67aea52)
 
-![Screenshot 2024-08-23 084247](https://github.com/user-attachments/assets/12b93b2b-aa27-4ef5-aca5-1fbc9afb6589)
+NAND GATE:
+![Screenshot 2025-02-21 165728](https://github.com/user-attachments/assets/e31c63c9-11aa-498c-8c74-fe5545ca648e)
 
-![Screenshot 2024-08-23 084052](https://github.com/user-attachments/assets/58df9a50-65a2-4625-ada9-b3be0c76314b)
+NOR GATE:
+![Screenshot 2025-02-27 171222](https://github.com/user-attachments/assets/72d820cb-5743-4a5a-aa61-3a689664aa31)
 
-![Screenshot 2024-08-23 083641](https://github.com/user-attachments/assets/caeff490-c6ea-4a2c-bcb4-4174f8acfceb)
+XOR GATE:
+![Screenshot 2025-02-21 165634](https://github.com/user-attachments/assets/75daa948-4d69-46d4-9c4c-cfa3aafa5f9d)
+
 
 
 
